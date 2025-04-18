@@ -16,7 +16,7 @@ config.default_prog = { "powershell.exe", "-NoLogo" }
 config.hide_tab_bar_if_only_one_tab = true
 config.use_fancy_tab_bar = false
 
-config.font = wezterm.font("Iosevka")
+config.font = wezterm.font("Iosevka Fixed")
 config.font_size = 18.0
 
 config.front_end = "OpenGL"
