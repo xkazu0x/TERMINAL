@@ -6,6 +6,9 @@
 	    "segments": [
 		{
 		    "foreground": "#999999",
+		    "properties": {
+			"style": "full"
+		    },
 		    "style": "plain",
 		    "template": "{{.Path}} ",
 		    "type": "path"
